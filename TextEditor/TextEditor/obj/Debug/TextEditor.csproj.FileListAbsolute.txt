@@ -1,0 +1,9 @@
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+c:\users\r3tr0\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
